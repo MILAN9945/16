@@ -1,0 +1,14 @@
+.bg-box::before{
+    width: 1600px;
+height: 800px; 
+background-color: green;
+display: block;
+content: "";
+background-image: url(https://img.goodfon.ru/wallpaper/big/0/5b/pole-zelen-trava-dom-derevya.jpg),url(./img/green44873.png),url(./img/lamp34914.png),url(https://vignette.wikia.nocookie.net/mashaandthebear/images/e/e0/%D0%81%D0%B6%D0%B8%D0%BA.png/revision/latest?cb=20180209130328&path-prefix=ru),url(https://avatanplus.com/files/resources/mid/58eb07b830eab15b56162788.png);
+background-size: 500px;
+background-repeat: no-repeat, repeat-x, repeat-x, repeat-y, repeat-y;
+background-position: center, bottom, top, left, right;
+background-size: 500px, 400px, 50px, 40px, 40px;
+
+
+}
